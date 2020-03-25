@@ -6,5 +6,9 @@ namespace ConsoleDemo
 {
     class NewClass
     {
+        public void MyMethod()
+        {
+            // demo method
+        }
     }
 }
